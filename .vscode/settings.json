@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.extraPaths":[
+        "D:\\System Software\\Python37\\Lib\\site-packages"
+    ]
+}
